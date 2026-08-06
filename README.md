@@ -182,7 +182,7 @@ VisionED-performance-predictor/
 ## 1️⃣ Clone the Repository
 
 ```bash id="clone01"
-git clone https://github.com/sagarcs818/VisionED-performance-predictor.git
+git clone https://github.com/ShanmukhaPonnada/VisionED-performance-predictor.git
 cd VisionED-performance-predictor
 ```
 
